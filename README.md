@@ -202,6 +202,8 @@ ORDER BY total_depletion DESC;
 - **Concepts used**: Aggregations, Subqueries, Window context via `HAVING`, `STDDEV()`, CTEs (extendable), Stored Procedures (extendable)
 
 ---
+## Author
+Nitin Pal 
 ---
 
 > *This project is based on synthetic data and is intended for educational and portfolio purposes only.*
